@@ -3,7 +3,7 @@ def talking(worda, wordb):
     c = worda + wordb
     return c
 
-print talking("Sunny", " sky")
+print talking("Sunnie", " sky")
 
 print talking(worda="Baking", wordb=" cookies")
 talking("cool", "off")
